@@ -8,4 +8,6 @@ I study Computer Games Design at Glasgow Caledonian University.
 -<a href="https://www.behance.net/adamalbsoul/"> Behance</a>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adamalbsoul&theme=dark&show_icons=true&locale=en&layout=compact" alt="adamalbsoul" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=adamalbsoul&hide=contribas,issues&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight" alt="adamalbsoulstats" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalbsoul&theme=tokyonight&hide=c,objective-c&layout=compact&langs_count=10" alt="adamalbsoullangs" /></p>
