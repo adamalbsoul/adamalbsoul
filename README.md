@@ -1,6 +1,6 @@
 ### Hi, I'm Adam 👋
 
-I study Computer Games Design at Glasgow Caledonian University.
+I create great user experiences from an interdisciplinary creative perspective.
 
 ## Links 🌎:
 -<a href="https://adamalbsoul.netlify.app/"> Website</a>
