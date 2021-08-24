@@ -3,7 +3,7 @@
 I create great user experiences from an interdisciplinary creative perspective.
 
 ## Links 🌎:
--<a href="https://www.adamalbsoul.app/"> Website</a>
+-<a href="https://www.adamalbsoul.com/"> Website</a>
 
 -<a href="https://www.behance.net/adamalbsoul/"> Behance</a>
 
